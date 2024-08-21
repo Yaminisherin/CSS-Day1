@@ -1,0 +1,32 @@
+.box{
+    height: 600px;
+    width:600px;
+    margin:30px;
+    padding: 20px;
+    border: 3px solid whitesmoke;
+    background-color: plum;
+    border-radius: 25px ;
+    
+}
+.profile{
+    height: 300px;
+    width: 300px;
+    margin:50px;
+    margin-left:90px;
+    padding: 20px;
+    border:3px solid wheat;
+    border-radius: 50%;
+    background-color: bisque;
+}
+.profile img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+span{
+   text-align: center;
+    margin:35px;
+    padding: 30px;
+    border: 3px solid whitesmoke;
+}
+
